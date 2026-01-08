@@ -149,25 +149,25 @@ const supportPlans = [
 const teamMembers = [
     {
         id: 1,
-        name: "Ayesha",
+        name: "syeda Ayesha shah",
         role: "CEO & Founder",
         image: "https://static.vecteezy.com/system/resources/thumbnails/053/630/747/small/a-beautiful-young-woman-in-a-business-suit-photo.jpeg"
     },
     {
         id: 2,
-        name: "Ali",
+        name: "syed Ali shah",
         role: "Chief Technology Officer",
         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxYq64YrXj4fTTFfJRcGo4ewvLqEBRn2dVfA&s"
     },
     {
         id: 3,
-        name: "Zoya",
+        name: "Zoya pathan ",
         role: "Head of Sales",
         image: "https://img.freepik.com/free-photo/widely-smiling-businesswoman-working-laptop-sitting-cafe_197531-341.jpg?semt=ais_hybrid&w=740&q=80"
     },
     {
         id: 4,
-        name: "Hassan",
+        name: "Hassan Shaikh",
         role: "Lead Engineer",
         image: "https://img.freepik.com/premium-photo/professional-businessman-working-office-desk-typing-laptop_856223-301.jpg"
     }
