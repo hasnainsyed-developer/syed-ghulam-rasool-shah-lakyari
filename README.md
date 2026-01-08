@@ -93,8 +93,11 @@ TechZone/
 ---
 
 ## 📸 Screenshots
-- Desktop View ![alt text](image.png)
-- Mobile View  
+- home page View ![alt text](./screenshot/image.png)
+ home page View ![alt text](./screenshot/About-Us-TechZone-01-08-2026_03_22_PM.png)
+  home page View ![alt text](./screenshot/Products-TechZone-01-08-2026_03_24_PM.png)
+   home page View ![alt text](./screenshot/Services-TechZone-01-08-2026_03_23_PM.png)
+    home page View ![alt text](./screenshot/Contact-Us-TechZone-01-08-2026_03_26_PM.png)
 
 (Add screenshots here)
 
